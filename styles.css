@@ -77,24 +77,13 @@ a:hover {
   
 
 
-.top-cloud {
-    position: absolute;
-    width: 10%;
-    right: 550px;
-    top: 40px;
-}
 
-.bottom-cloud {
-    position: absolute;
-    width: 10%;
-    left: 550px;
-    bottom: 400px;
-}
-
-.family {
-    position: abosolute;
-    padding-top: 100px;
-    width: 20%;
+.family2 {
+    
+    width: 30%;
+    padding-top: 60px;
+    
+    
 }
 
 .designer {
